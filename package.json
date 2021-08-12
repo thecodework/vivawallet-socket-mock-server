@@ -1,0 +1,34 @@
+{
+  "name": "vivawallet-socket-mock-server",
+  "version": "1.0.0",
+  "description": "Mock socket server for Vivawallet Payment system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodework/vivawallet-socket-mock-server.git"
+  },
+  "keywords": [
+    "Vivawallet",
+    "Socket",
+    "Server",
+    "Vivawallet",
+    "Socket",
+    "Server",
+    "Vivawallet",
+    "Mock",
+    "Socket",
+    "Server"
+  ],
+  "author": "Ashish Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecodework/vivawallet-socket-mock-server/issues"
+  },
+  "homepage": "https://github.com/thecodework/vivawallet-socket-mock-server#readme",
+  "dependencies": {
+    "socket.io": "^4.1.3"
+  }
+}
